@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.a3696927.chunk.css",
-    "main.js": "/static/js/main.a428444c.chunk.js",
-    "main.js.map": "/static/js/main.a428444c.chunk.js.map",
+    "main.js": "/static/js/main.2ff6c3ea.chunk.js",
+    "main.js.map": "/static/js/main.2ff6c3ea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f1a68be6.js",
     "runtime-main.js.map": "/static/js/runtime-main.f1a68be6.js.map",
-    "static/js/2.23b5a862.chunk.js": "/static/js/2.23b5a862.chunk.js",
-    "static/js/2.23b5a862.chunk.js.map": "/static/js/2.23b5a862.chunk.js.map",
+    "static/js/2.f9d46625.chunk.js": "/static/js/2.f9d46625.chunk.js",
+    "static/js/2.f9d46625.chunk.js.map": "/static/js/2.f9d46625.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.a3696927.chunk.css.map": "/static/css/main.a3696927.chunk.css.map",
-    "static/js/2.23b5a862.chunk.js.LICENSE.txt": "/static/js/2.23b5a862.chunk.js.LICENSE.txt",
+    "static/js/2.f9d46625.chunk.js.LICENSE.txt": "/static/js/2.f9d46625.chunk.js.LICENSE.txt",
     "static/media/Carrinho.1c030e73.png": "/static/media/Carrinho.1c030e73.png",
     "static/media/FoodLogoRed.38093783.svg": "/static/media/FoodLogoRed.38093783.svg",
     "static/media/Food_Memes.4b76a5f2.svg": "/static/media/Food_Memes.4b76a5f2.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f1a68be6.js",
-    "static/js/2.23b5a862.chunk.js",
+    "static/js/2.f9d46625.chunk.js",
     "static/css/main.a3696927.chunk.css",
-    "static/js/main.a428444c.chunk.js"
+    "static/js/main.2ff6c3ea.chunk.js"
   ]
 }
